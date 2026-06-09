@@ -1,0 +1,12 @@
+{
+    "sample_index": 5304,
+    "total_anomaly_score": 6.552647113800049,
+    "is_anomaly": true,
+    "threshold_used": 4.745952129364014,
+    "components": {
+        "reconstruction_error": 4.907854080200195,
+        "prediction_error": 0.02419885722632348,
+        "uncertainty_variance": 3.751446008682251,
+        "latent_drift": 1.0
+    }
+}
